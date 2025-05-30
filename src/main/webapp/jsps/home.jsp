@@ -38,7 +38,7 @@ out.println("Server Host Name :: " + inetAddress.getHostName());
 		+91-9309430036
 		s2@gmail.com
 		<br>
-		<a href="mailto:jeet@gmail.com">Demo Class by Sachin</a>
+		<a href="mailto:sachin@gmail.com">Demo Class by Sachin</a>
 	</span>
 </div>
 <hr>
@@ -46,7 +46,7 @@ out.println("Server Host Name :: " + inetAddress.getHostName());
 <hr>
 <hr>
 <p align="center">S2 Software - Consultant, Training, Development Center.</p>
-<p align="center"><small>Copyrights 2022 by <a href="http://devops.com/">S2 Software Training Centre, Pune</a></small></p>
+<p align="center"><small>Copyrights 2022 by <a href="http://devops.com/">Software Training Centre, Pune</a></small></p>
 
 </body>
 </html>
